@@ -1,0 +1,13 @@
+{
+    "name": "luisinder/dummy-tester",
+    "description": "Dummy repo for testing libs",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Cajigas",
+            "email": "luis@luisinder.me"
+        }
+    ],
+    "require": {}
+}
